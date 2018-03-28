@@ -1,0 +1,1249 @@
+{
+    "name": "Hello World!",
+    "info": null,
+    "children": [
+        {
+            "name": "http://open.salzburgerland.com/en/entity/salzburgerland_card",
+            "info": {
+                "label": "SalzburgerLand Card",
+                "itemId": "http://open.salzburgerland.com/en/entity/salzburgerland_card",
+                "type": "http://schema.org/Thing",
+                "score": 1.0515873015873016,
+                "scoreLabel": "1.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/franz_xaver_gruber",
+            "info": {
+                "label": "Conradï»¿ Franzï»¿ Xaver Gruber",
+                "itemId": "http://open.salzburgerland.com/en/entity/franz_xaver_gruber",
+                "type": "http://schema.org/Person",
+                "score": 0.9190947453571956,
+                "scoreLabel": "0.92"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/salzburg",
+            "info": {
+                "label": "Salzburg",
+                "itemId": "http://open.salzburgerland.com/en/entity/salzburg",
+                "type": "http://schema.org/Place",
+                "score": 0.8790319150516404,
+                "scoreLabel": "0.88"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/joseph_mohr",
+            "info": {
+                "label": "Josef Mohr",
+                "itemId": "http://open.salzburgerland.com/en/entity/joseph_mohr",
+                "type": "http://schema.org/Person",
+                "score": 0.8742632150735267,
+                "scoreLabel": "0.87"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/the_sound_of_music",
+            "info": {
+                "label": "Sound of Music",
+                "itemId": "http://open.salzburgerland.com/en/entity/the_sound_of_music",
+                "type": "http://schema.org/Thing",
+                "score": 0.8280839073108685,
+                "scoreLabel": "0.83"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/silent_night",
+            "info": {
+                "label": "Silent Night",
+                "itemId": "http://open.salzburgerland.com/en/entity/silent_night",
+                "type": "http://schema.org/CreativeWork",
+                "score": 0.7353190905430189,
+                "scoreLabel": "0.74"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/salzburgerland",
+            "info": {
+                "label": "SalzburgerLand",
+                "itemId": "http://open.salzburgerland.com/en/entity/salzburgerland",
+                "type": "http://schema.org/Place",
+                "score": 0.60628205429823,
+                "scoreLabel": "0.61"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/oberndorf",
+            "info": {
+                "label": "Oberndorf",
+                "itemId": "http://open.salzburgerland.com/en/entity/oberndorf",
+                "type": "http://schema.org/Place",
+                "score": 0.5596652796186705,
+                "scoreLabel": "0.56"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/family",
+            "info": {
+                "label": "Family",
+                "itemId": "http://open.salzburgerland.com/en/entity/family",
+                "type": "http://schema.org/Thing",
+                "score": 0.5394641994114973,
+                "scoreLabel": "0.54"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/julie_andrews",
+            "info": {
+                "label": "Julie Andrews",
+                "itemId": "http://open.salzburgerland.com/en/entity/julie_andrews",
+                "type": "http://schema.org/Person",
+                "score": 0.5239062736506148,
+                "scoreLabel": "0.52"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hellbrunn",
+            "info": {
+                "label": "Hellbrunn",
+                "itemId": "http://open.salzburgerland.com/en/entity/hellbrunn",
+                "type": "http://schema.org/Place",
+                "score": 0.5096612594056006,
+                "scoreLabel": "0.51"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/mirabellgarten",
+            "info": {
+                "label": "Mirabellgarten",
+                "itemId": "http://open.salzburgerland.com/en/entity/mirabellgarten",
+                "type": "http://schema.org/Place",
+                "score": 0.5096612594056006,
+                "scoreLabel": "0.51"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/wolfgang_amadeus_mozart",
+            "info": {
+                "label": "Joannes Chrysostomus Wolfgangus Theophilus Mozart",
+                "itemId": "http://open.salzburgerland.com/en/entity/wolfgang_amadeus_mozart",
+                "type": "http://schema.org/Person",
+                "score": 0.33427260649664625,
+                "scoreLabel": "0.33"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/winter_sport",
+            "info": {
+                "label": "Winter sport",
+                "itemId": "http://open.salzburgerland.com/en/entity/winter_sport",
+                "type": "http://schema.org/Thing",
+                "score": 0.2963928319819929,
+                "scoreLabel": "0.30"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/werfen",
+            "info": {
+                "label": "Werfen",
+                "itemId": "http://open.salzburgerland.com/en/entity/werfen",
+                "type": "http://schema.org/Place",
+                "score": 0.23744649246102734,
+                "scoreLabel": "0.24"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hohenwerfen_castle",
+            "info": {
+                "label": "Hohenwerfen Castle",
+                "itemId": "http://open.salzburgerland.com/en/entity/hohenwerfen_castle",
+                "type": "http://schema.org/Place",
+                "score": 0.23744649246102734,
+                "scoreLabel": "0.24"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/georg_johannes_von_trapp",
+            "info": {
+                "label": "Trapp family",
+                "itemId": "http://open.salzburgerland.com/en/entity/georg_johannes_von_trapp",
+                "type": "http://schema.org/Person",
+                "score": 0.23744649246102734,
+                "scoreLabel": "0.24"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/maria_von_trapp",
+            "info": {
+                "label": "Maria von Trapp",
+                "itemId": "http://open.salzburgerland.com/en/entity/maria_von_trapp",
+                "type": "http://schema.org/Person",
+                "score": 0.23744649246102734,
+                "scoreLabel": "0.24"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/the_long_tradition_of_the_christmas_markets",
+            "info": {
+                "label": "The long tradition of the Christmas Markets",
+                "itemId": "http://open.salzburgerland.com/en/post/the_long_tradition_of_the_christmas_markets",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.22118616677440206,
+                "scoreLabel": "0.22"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/herbert_von_karajan",
+            "info": {
+                "label": "Heribert Ritter von Karajan",
+                "itemId": "http://open.salzburgerland.com/en/entity/herbert_von_karajan",
+                "type": "http://schema.org/Person",
+                "score": 0.15743343866913662,
+                "scoreLabel": "0.16"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/the_hellbrunn_trick_fountains",
+            "info": {
+                "label": "The Hellbrunn trick fountains",
+                "itemId": "http://open.salzburgerland.com/en/post/the_hellbrunn_trick_fountains",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.14311034877072615,
+                "scoreLabel": "0.14"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/museum",
+            "info": {
+                "label": "Museum",
+                "itemId": "http://open.salzburgerland.com/en/entity/museum",
+                "type": "http://schema.org/Thing",
+                "score": 0.1384317770727507,
+                "scoreLabel": "0.14"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/biking_and_cycling",
+            "info": {
+                "label": "Biking and Cycling",
+                "itemId": "http://open.salzburgerland.com/en/entity/biking_and_cycling",
+                "type": "http://schema.org/Thing",
+                "score": 0.13415584415584417,
+                "scoreLabel": "0.13"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/skiing_and_snowboarding",
+            "info": {
+                "label": "Skiing and Snowboarding",
+                "itemId": "http://open.salzburgerland.com/en/entity/skiing_and_snowboarding",
+                "type": "http://schema.org/Thing",
+                "score": 0.13142589118198875,
+                "scoreLabel": "0.13"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/freiherr_von_trapp",
+            "info": {
+                "label": "Baron von Trapp",
+                "itemId": "http://open.salzburgerland.com/en/entity/freiherr_von_trapp",
+                "type": "http://schema.org/Person",
+                "score": 0.12412346618736071,
+                "scoreLabel": "0.12"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/bad_gastein",
+            "info": {
+                "label": "Bad Gastein",
+                "itemId": "http://open.salzburgerland.com/en/entity/bad_gastein",
+                "type": "http://schema.org/Place",
+                "score": 0.12003968253968254,
+                "scoreLabel": "0.12"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/fuschl_am_see",
+            "info": {
+                "label": "Fuschl am See",
+                "itemId": "http://open.salzburgerland.com/en/entity/fuschl_am_see",
+                "type": "http://schema.org/Place",
+                "score": 0.11513157894736842,
+                "scoreLabel": "0.12"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/church",
+            "info": {
+                "label": "Church",
+                "itemId": "http://open.salzburgerland.com/en/entity/church",
+                "type": "http://schema.org/Thing",
+                "score": 0.10996104193720876,
+                "scoreLabel": "0.11"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/sauna",
+            "info": {
+                "label": "Sauna",
+                "itemId": "http://open.salzburgerland.com/en/entity/sauna",
+                "type": "http://schema.org/Thing",
+                "score": 0.10833333333333334,
+                "scoreLabel": "0.11"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/destinations_in_salzburgerland",
+            "info": {
+                "label": "Destinations in SalzburgerLand",
+                "itemId": "http://open.salzburgerland.com/en/entity/destinations_in_salzburgerland",
+                "type": "http://schema.org/Thing",
+                "score": 0.10121389981991596,
+                "scoreLabel": "0.10"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/bad_hofgastein",
+            "info": {
+                "label": "Bad Hofgastein",
+                "itemId": "http://open.salzburgerland.com/en/entity/bad_hofgastein",
+                "type": "http://schema.org/Place",
+                "score": 0.1,
+                "scoreLabel": "0.10"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/golling",
+            "info": {
+                "label": "Golling",
+                "itemId": "http://open.salzburgerland.com/en/entity/golling",
+                "type": "http://schema.org/Place",
+                "score": 0.1,
+                "scoreLabel": "0.10"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/health_and_wellness",
+            "info": {
+                "label": "Recreation and wellness",
+                "itemId": "http://open.salzburgerland.com/en/entity/health_and_wellness",
+                "type": "http://schema.org/Thing",
+                "score": 0.1,
+                "scoreLabel": "0.10"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/art_and_culture",
+            "info": {
+                "label": "Art and culture",
+                "itemId": "http://open.salzburgerland.com/en/entity/art_and_culture",
+                "type": "http://schema.org/Thing",
+                "score": 0.0766651930445034,
+                "scoreLabel": "0.08"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/cycling",
+            "info": {
+                "label": "Cycling",
+                "itemId": "http://open.salzburgerland.com/en/entity/cycling",
+                "type": "http://schema.org/Thing",
+                "score": 0.06799299666649436,
+                "scoreLabel": "0.07"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/thomas_bernhard",
+            "info": {
+                "label": "Thomas Bernhard",
+                "itemId": "http://open.salzburgerland.com/en/entity/thomas_bernhard",
+                "type": "http://schema.org/Person",
+                "score": 0.06305403667753091,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/dirndl",
+            "info": {
+                "label": "Dirndl",
+                "itemId": "http://open.salzburgerland.com/en/entity/dirndl",
+                "type": "http://schema.org/Thing",
+                "score": 0.0625,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/festival",
+            "info": {
+                "label": "Festival",
+                "itemId": "http://open.salzburgerland.com/en/entity/festival",
+                "type": "http://schema.org/Thing",
+                "score": 0.0625,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/untersberg",
+            "info": {
+                "label": "Untersberg",
+                "itemId": "http://open.salzburgerland.com/en/entity/untersberg",
+                "type": "http://schema.org/Mountain",
+                "score": 0.061766584028247314,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/mountain_lakes_and_spas__pure_relaxation_in_the_water_in_salzburgerland",
+            "info": {
+                "label": "Pure mountain lakes",
+                "itemId": "http://open.salzburgerland.com/en/post/mountain_lakes_and_spas__pure_relaxation_in_the_water_in_salzburgerland",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.058823529411764705,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/the_most_beautiful_christmas_markets",
+            "info": {
+                "label": "The most beautiful Christmas markets",
+                "itemId": "http://open.salzburgerland.com/en/post/the_most_beautiful_christmas_markets",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.05756578947368421,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/waterfall",
+            "info": {
+                "label": "Waterfall",
+                "itemId": "http://open.salzburgerland.com/en/entity/waterfall",
+                "type": "http://schema.org/Thing",
+                "score": 0.055777310924369744,
+                "scoreLabel": "0.06"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/saalbach_hinterglemm",
+            "info": {
+                "label": "Saalbach Hinterglemm",
+                "itemId": "http://open.salzburgerland.com/en/entity/saalbach_hinterglemm",
+                "type": "http://schema.org/Place",
+                "score": 0.05107363458203794,
+                "scoreLabel": "0.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/mariapfarr",
+            "info": {
+                "label": "Mariapfarr",
+                "itemId": "http://open.salzburgerland.com/en/entity/mariapfarr",
+                "type": "http://schema.org/Place",
+                "score": 0.05,
+                "scoreLabel": "0.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/abtenau",
+            "info": {
+                "label": "Abtenau",
+                "itemId": "http://open.salzburgerland.com/en/entity/abtenau",
+                "type": "http://schema.org/Place",
+                "score": 0.05,
+                "scoreLabel": "0.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/st-_wolfgang",
+            "info": {
+                "label": "St. Wolfgang",
+                "itemId": "http://open.salzburgerland.com/en/entity/st-_wolfgang",
+                "type": "http://schema.org/Place",
+                "score": 0.05,
+                "scoreLabel": "0.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/caution_grazing_cattle",
+            "info": {
+                "label": "Caution Grazing Cattle",
+                "itemId": "http://open.salzburgerland.com/en/post/caution_grazing_cattle",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.047619047619047616,
+                "scoreLabel": "0.05"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/walking_and_hiking",
+            "info": {
+                "label": "Walking and hiking",
+                "itemId": "http://open.salzburgerland.com/en/entity/walking_and_hiking",
+                "type": "http://schema.org/Thing",
+                "score": 0.043478260869565216,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/the_6_salzburg_city_beaches",
+            "info": {
+                "label": "The 6 Salzburg city beaches",
+                "itemId": "http://open.salzburgerland.com/en/post/the_6_salzburg_city_beaches",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.041666666666666664,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/vorderkaserklamm",
+            "info": {
+                "label": "Vorderkaserklamm",
+                "itemId": "http://open.salzburgerland.com/en/entity/vorderkaserklamm",
+                "type": "http://schema.org/Place",
+                "score": 0.039705882352941174,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/lammer",
+            "info": {
+                "label": "Lammer",
+                "itemId": "http://open.salzburgerland.com/en/entity/lammer",
+                "type": "http://schema.org/Thing",
+                "score": 0.039705882352941174,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/lake",
+            "info": {
+                "label": "Lake",
+                "itemId": "http://open.salzburgerland.com/en/entity/lake",
+                "type": "http://schema.org/Thing",
+                "score": 0.03777777777777778,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/alpine_summer",
+            "info": {
+                "label": "Alpine Summer",
+                "itemId": "http://open.salzburgerland.com/en/entity/alpine_summer",
+                "type": "http://schema.org/Thing",
+                "score": 0.036965467883342276,
+                "scoreLabel": "0.04"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/pfarrwerfen",
+            "info": {
+                "label": "Pfarrwerfen",
+                "itemId": "http://open.salzburgerland.com/en/entity/pfarrwerfen",
+                "type": "http://schema.org/Place",
+                "score": 0.034482758620689655,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/spiritual_travel",
+            "info": {
+                "label": "Spiritual travel",
+                "itemId": "http://open.salzburgerland.com/en/entity/spiritual_travel",
+                "type": "http://schema.org/Thing",
+                "score": 0.034482758620689655,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/swimming",
+            "info": {
+                "label": "Swimming",
+                "itemId": "http://open.salzburgerland.com/en/entity/swimming",
+                "type": "http://schema.org/Thing",
+                "score": 0.03333333333333333,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/fuschlsee_2",
+            "info": {
+                "label": "Fuschlsee",
+                "itemId": "http://open.salzburgerland.com/en/entity/fuschlsee_2",
+                "type": "http://schema.org/LakeBodyOfWater",
+                "score": 0.03333333333333333,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/elsbethen",
+            "info": {
+                "label": "Elsbethen",
+                "itemId": "http://open.salzburgerland.com/en/entity/elsbethen",
+                "type": "http://schema.org/Place",
+                "score": 0.03225806451612903,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/alpine_and_high-altitude_medicine",
+            "info": {
+                "label": "Alpine and high-altitude medicine",
+                "itemId": "http://open.salzburgerland.com/en/post/alpine_and_high-altitude_medicine",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.03125,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/st-_gilgen",
+            "info": {
+                "label": "St. Gilgen",
+                "itemId": "http://open.salzburgerland.com/en/entity/st-_gilgen",
+                "type": "http://schema.org/Place",
+                "score": 0.02631578947368421,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/muhlbach_am_hochkonig",
+            "info": {
+                "label": "MÃ¼hlbach am HochkÃ¶nig",
+                "itemId": "http://open.salzburgerland.com/en/entity/muhlbach_am_hochkonig",
+                "type": "http://schema.org/Place",
+                "score": 0.02631578947368421,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/alpine_health_region",
+            "info": {
+                "label": "Alpine Health Region",
+                "itemId": "http://open.salzburgerland.com/en/entity/alpine_health_region",
+                "type": "http://schema.org/Thing",
+                "score": 0.02564102564102564,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/miracle_water_from_falkenstein_mountain",
+            "info": {
+                "label": "Miracle water from Falkenstein mountain",
+                "itemId": "http://open.salzburgerland.com/en/post/miracle_water_from_falkenstein_mountain",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.02564102564102564,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/adrenalin",
+            "info": {
+                "label": "Epinephrine",
+                "itemId": "http://open.salzburgerland.com/en/entity/adrenalin",
+                "type": "http://schema.org/Thing",
+                "score": 0.02531440060944388,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/krimml-hochkrimml",
+            "info": {
+                "label": "Krimml-Hochkrimml",
+                "itemId": "http://open.salzburgerland.com/en/entity/krimml-hochkrimml",
+                "type": "http://schema.org/Place",
+                "score": 0.025,
+                "scoreLabel": "0.03"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/rauris",
+            "info": {
+                "label": "Rauris",
+                "itemId": "http://open.salzburgerland.com/en/entity/rauris",
+                "type": "http://schema.org/Place",
+                "score": 0.023809523809523808,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/rauriser_ache",
+            "info": {
+                "label": "Rauriser Ache",
+                "itemId": "http://open.salzburgerland.com/en/entity/rauriser_ache",
+                "type": "http://schema.org/RiverBodyOfWater",
+                "score": 0.023809523809523808,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/national_park",
+            "info": {
+                "label": "National park",
+                "itemId": "http://open.salzburgerland.com/en/entity/national_park",
+                "type": "http://schema.org/Thing",
+                "score": 0.023809523809523808,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/bauernkrapfen",
+            "info": {
+                "label": "Bauernkrapfen",
+                "itemId": "http://open.salzburgerland.com/en/entity/bauernkrapfen",
+                "type": "http://schema.org/Thing",
+                "score": 0.023255813953488372,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/santiago_de_compostela",
+            "info": {
+                "label": "Santiago de Compostela",
+                "itemId": "http://open.salzburgerland.com/en/entity/santiago_de_compostela",
+                "type": "http://schema.org/Place",
+                "score": 0.023255813953488372,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/eddy_merckx",
+            "info": {
+                "label": "Edouard Louis Joseph Baron Merckx",
+                "itemId": "http://open.salzburgerland.com/en/entity/eddy_merckx",
+                "type": "http://schema.org/Person",
+                "score": 0.022727272727272728,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/4_lakes_art_hike_on_schmittenhohe",
+            "info": {
+                "label": "4 Lakes Art Hike on SchmittenhÃ¶he",
+                "itemId": "http://open.salzburgerland.com/en/post/4_lakes_art_hike_on_schmittenhohe",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.022222222222222223,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/nassfeld_valley_and_the_bockhartsee_lakes",
+            "info": {
+                "label": "Nassfeld valley and the Bockhartsee lakes",
+                "itemId": "http://open.salzburgerland.com/en/post/nassfeld_valley_and_the_bockhartsee_lakes",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.021627308861351415,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/experience_winter",
+            "info": {
+                "label": "Experience winter",
+                "itemId": "http://open.salzburgerland.com/en/entity/experience_winter",
+                "type": "http://schema.org/Thing",
+                "score": 0.02040816326530612,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/bike_trails_in_salzburgerland",
+            "info": {
+                "label": "Bike Trails in Salzburgerland",
+                "itemId": "http://open.salzburgerland.com/en/post/bike_trails_in_salzburgerland",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.02040816326530612,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/schwarzach",
+            "info": {
+                "label": "Schwarzach",
+                "itemId": "http://open.salzburgerland.com/en/entity/schwarzach",
+                "type": "http://schema.org/Place",
+                "score": 0.0196078431372549,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/medical_check-ups",
+            "info": {
+                "label": "Medical Check-Ups",
+                "itemId": "http://open.salzburgerland.com/en/post/medical_check-ups",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.0196078431372549,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/indoor_ski_slope",
+            "info": {
+                "label": "indoor ski slope",
+                "itemId": "http://open.salzburgerland.com/en/entity/indoor_ski_slope",
+                "type": "http://schema.org/Thing",
+                "score": 0.01855651013885294,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/ski_instructor",
+            "info": {
+                "label": "Ski instructor",
+                "itemId": "http://open.salzburgerland.com/en/entity/ski_instructor",
+                "type": "http://schema.org/Thing",
+                "score": 0.01855651013885294,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hohe_tauern",
+            "info": {
+                "label": "High Tauern",
+                "itemId": "http://open.salzburgerland.com/en/entity/hohe_tauern",
+                "type": "http://schema.org/Thing",
+                "score": 0.018532818532818532,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/camping",
+            "info": {
+                "label": "Camping",
+                "itemId": "http://open.salzburgerland.com/en/entity/camping",
+                "type": "http://schema.org/Thing",
+                "score": 0.018532818532818532,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/o_holy_night",
+            "info": {
+                "label": "Holy Night",
+                "itemId": "http://open.salzburgerland.com/en/entity/o_holy_night",
+                "type": "http://schema.org/Thing",
+                "score": 0.018222506393861894,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/post/the_history_of_salzburgs_alpine_culture",
+            "info": {
+                "label": "The history of Salzburgâ\u0080\u0099s Alpine culture",
+                "itemId": "http://open.salzburgerland.com/en/post/the_history_of_salzburgs_alpine_culture",
+                "type": "http://schema.org/BlogPosting",
+                "score": 0.01694915254237288,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/kaprun",
+            "info": {
+                "label": "Kaprun",
+                "itemId": "http://open.salzburgerland.com/en/entity/kaprun",
+                "type": "http://schema.org/Place",
+                "score": 0.016919362084456425,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/zell_am_see_district",
+            "info": {
+                "label": "Pinzgau",
+                "itemId": "http://open.salzburgerland.com/en/entity/zell_am_see_district",
+                "type": "http://schema.org/Place",
+                "score": 0.016919362084456425,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/mountain_biking",
+            "info": {
+                "label": "Mountain biking",
+                "itemId": "http://open.salzburgerland.com/en/entity/mountain_biking",
+                "type": "http://schema.org/Thing",
+                "score": 0.016919362084456425,
+                "scoreLabel": "0.02"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/farm",
+            "info": {
+                "label": "Farm",
+                "itemId": "http://open.salzburgerland.com/en/entity/farm",
+                "type": "http://schema.org/Thing",
+                "score": 0.014705882352941176,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/sport",
+            "info": {
+                "label": "Sport",
+                "itemId": "http://open.salzburgerland.com/en/entity/sport",
+                "type": "http://schema.org/Thing",
+                "score": 0.013157894736842105,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/dialysis",
+            "info": {
+                "label": "Dialysis",
+                "itemId": "http://open.salzburgerland.com/en/entity/dialysis",
+                "type": "http://schema.org/Thing",
+                "score": 0.01282051282051282,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/occupational_burnout",
+            "info": {
+                "label": "burnout",
+                "itemId": "http://open.salzburgerland.com/en/entity/occupational_burnout",
+                "type": "http://schema.org/Thing",
+                "score": 0.011111111111111112,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/krimml_waterfalls",
+            "info": {
+                "label": "Krimml Waterfalls",
+                "itemId": "http://open.salzburgerland.com/en/entity/krimml_waterfalls",
+                "type": "http://schema.org/Place",
+                "score": 0.011111111111111112,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/via_culinaria",
+            "info": {
+                "label": "Via Culinaria",
+                "itemId": "http://open.salzburgerland.com/en/entity/via_culinaria",
+                "type": "http://schema.org/Thing",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hermann_maier",
+            "info": {
+                "label": "Hermann Maier",
+                "itemId": "http://open.salzburgerland.com/en/entity/hermann_maier",
+                "type": "http://schema.org/Person",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/flachau",
+            "info": {
+                "label": "Flachau",
+                "itemId": "http://open.salzburgerland.com/en/entity/flachau",
+                "type": "http://schema.org/Place",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/osterfestspiele",
+            "info": {
+                "label": "Salzburg Easter Festival",
+                "itemId": "http://open.salzburgerland.com/en/entity/osterfestspiele",
+                "type": "http://schema.org/Thing",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/alps",
+            "info": {
+                "label": "Alps",
+                "itemId": "http://open.salzburgerland.com/en/entity/alps",
+                "type": "http://schema.org/Place",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hut",
+            "info": {
+                "label": "Hut",
+                "itemId": "http://open.salzburgerland.com/en/entity/hut",
+                "type": "http://schema.org/Thing",
+                "score": 0.009523809523809523,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/nina_radman",
+            "info": {
+                "label": "Nina Radman",
+                "itemId": "http://open.salzburgerland.com/en/entity/nina_radman",
+                "type": "http://schema.org/Person",
+                "score": 0.008928571428571428,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/asthma_bronchiale",
+            "info": {
+                "label": "Asthma bronchiale",
+                "itemId": "http://open.salzburgerland.com/en/entity/asthma_bronchiale",
+                "type": "http://schema.org/Thing",
+                "score": 0.007142857142857143,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/allergy",
+            "info": {
+                "label": "Allergy",
+                "itemId": "http://open.salzburgerland.com/en/entity/allergy",
+                "type": "http://schema.org/Thing",
+                "score": 0.007142857142857143,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/dough",
+            "info": {
+                "label": "Dough",
+                "itemId": "http://open.salzburgerland.com/en/entity/dough",
+                "type": "http://schema.org/Thing",
+                "score": 0.005952380952380952,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/twenger_alm",
+            "info": {
+                "label": "Twenger Alm",
+                "itemId": "http://open.salzburgerland.com/en/entity/twenger_alm",
+                "type": "http://schema.org/Place",
+                "score": 0.005952380952380952,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/curd",
+            "info": {
+                "label": "Curd",
+                "itemId": "http://open.salzburgerland.com/en/entity/curd",
+                "type": "http://schema.org/Thing",
+                "score": 0.005952380952380952,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/cake",
+            "info": {
+                "label": "Cake",
+                "itemId": "http://open.salzburgerland.com/en/entity/cake",
+                "type": "http://schema.org/Thing",
+                "score": 0.005952380952380952,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/blueberry",
+            "info": {
+                "label": "Blueberry",
+                "itemId": "http://open.salzburgerland.com/en/entity/blueberry",
+                "type": "http://schema.org/Thing",
+                "score": 0.005952380952380952,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/red_bull_arena_salzburg",
+            "info": {
+                "label": "Red Bull Arena (Salzburg)",
+                "itemId": "http://open.salzburgerland.com/en/entity/red_bull_arena_salzburg",
+                "type": "http://schema.org/Place",
+                "score": 0.005813953488372093,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/training_camp",
+            "info": {
+                "label": "Training camp",
+                "itemId": "http://open.salzburgerland.com/en/entity/training_camp",
+                "type": "http://schema.org/Thing",
+                "score": 0.005813953488372093,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/bayer_04_leverkusen",
+            "info": {
+                "label": "Bayer 04 Leverkusen",
+                "itemId": "http://open.salzburgerland.com/en/entity/bayer_04_leverkusen",
+                "type": "http://schema.org/SportsTeam",
+                "score": 0.005813953488372093,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/wildkogel",
+            "info": {
+                "label": "Wildkogel",
+                "itemId": "http://open.salzburgerland.com/en/entity/wildkogel",
+                "type": "http://schema.org/Mountain",
+                "score": 0.005376344086021505,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/sled",
+            "info": {
+                "label": "Sled",
+                "itemId": "http://open.salzburgerland.com/en/entity/sled",
+                "type": "http://schema.org/Thing",
+                "score": 0.005376344086021505,
+                "scoreLabel": "0.01"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/uttendorf-weissee",
+            "info": {
+                "label": "Uttendorf-WeiÃ\u009fsee",
+                "itemId": "http://open.salzburgerland.com/en/entity/uttendorf-weissee",
+                "type": "http://schema.org/Place",
+                "score": 0.0044444444444444444,
+                "scoreLabel": "0.00"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/hiking",
+            "info": {
+                "label": "Hiking",
+                "itemId": "http://open.salzburgerland.com/en/entity/hiking",
+                "type": "http://schema.org/Thing",
+                "score": 0.0044444444444444444,
+                "scoreLabel": "0.00"
+            },
+            "children": []
+        },
+        {
+            "name": "http://open.salzburgerland.com/en/entity/harvest_festival",
+            "info": {
+                "label": "Bauernherbst",
+                "itemId": "http://open.salzburgerland.com/en/entity/harvest_festival",
+                "type": "http://schema.org/Event",
+                "score": 0.004115226337448559,
+                "scoreLabel": "0.00"
+            },
+            "children": []
+        }
+    ]
+}
