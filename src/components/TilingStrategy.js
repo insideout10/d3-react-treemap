@@ -1,55 +1,3 @@
-function moveNodes(
-  node,
-  tile,
-  containerWidth,
-  containerHeight,
-  tileMinWidth,
-  tileMinHeight
-) {
-
-  if (2 >= node.children.length ) {
-    return node;
-  }
-
-  let isMinimumWidthAndHeight = false;
-  const collectedNodes = [];
-  while (!isMinimumWidthAndHeight && 0 < node.children.length) {
-    // Recalculate the total.
-    node.sum(
-      n =>
-        undefined === n.info || null === n.info
-          ? 0
-          : Math.abs(n.info.score * 1000)
-    );
-
-    console.debug(
-      'Minimum width and height: ',
-      (isMinimumWidthAndHeight = u(
-        t(node, tile, containerWidth, containerHeight),
-        tileMinWidth,
-        tileMinHeight
-      ))
-    );
-
-    collectedNodes.splice(0, 0, node.children.pop());
-  }
-
-  if (1 === collectedNodes.length) {
-    // Push back the single node.
-    node.children.push(collectedNodes[0]);
-    return node;
-  }
-
-  const otherNode = collectedNodes[0].copy(); // Object.assign({}, collectedNodes[0]);
-  otherNode.data = { name: 'Other...' };
-  otherNode.parent = node;
-  otherNode.children = collectedNodes;
-  otherNode.children.forEach(n => n.depth++);
-  console.debug({ otherNode, collectedNodes });
-
-  node.children.push(otherNode);
-}
-
 function t(node, tilingFn, width, height) {
   tilingFn(node, 0, 0, width, height);
 
@@ -72,26 +20,98 @@ function u(node, minWidth, minHeight) {
   return true;
 }
 
-export default function(minWidth, minHeight, tilingStrategy) {
-  return function(node, x0, y0, x1, y1) {
+class TilingStrategy {
+  constructor(minWidth, minHeight, delegatingTilingStrategy) {
+    this.minWidth = minWidth;
+    this.minHeight = minHeight;
+    this.delegatingTilingStrategy = delegatingTilingStrategy;
+
+    this.tile = this.tile.bind(this);
+  }
+
+  tile(node, x0, y0, x1, y1) {
     console.debug('Tiling starting...', { node, x0, y0, x1, y1 });
 
     if (0 === x0 && 0 === y0) {
       const containerWidth = x1 - x0;
       const containerHeight = y1 - y0;
 
-      moveNodes(
-        node,
-        tilingStrategy,
-        containerWidth,
-        containerHeight,
-        minWidth,
-        minHeight
-      );
+      this.collect(node, containerWidth, containerHeight);
     }
 
-    tilingStrategy(node, x0, y0, x1, y1);
+    this.delegatingTilingStrategy(node, x0, y0, x1, y1);
 
     console.debug('Tiling complete.', { node, x0, y0, x1, y1 });
-  };
+  }
+
+  collect(node, containerWidth, containerHeight) {
+    if (2 >= node.children.length) {
+      return node;
+    }
+
+    let isMinimumWidthAndHeight = false;
+    const collectedNodes = [];
+    while (!isMinimumWidthAndHeight && 0 < node.children.length) {
+      // Recalculate the total.
+      node.sum(
+        n =>
+          undefined === n.info || null === n.info
+            ? 0
+            : Math.abs(n.info.score * 1000)
+      );
+
+      console.debug(
+        'Minimum width and height: ',
+        (isMinimumWidthAndHeight = u(
+          t(
+            node,
+            this.delegatingTilingStrategy,
+            containerWidth,
+            containerHeight
+          ),
+          this.minWidth,
+          this.minHeight
+        ))
+      );
+
+      collectedNodes.splice(0, 0, node.children.pop());
+    }
+
+    // If we collected only one node for the 'others...' linked screen, we push
+    // it back since it doesn't make sense to show one screen with only one tile.
+    if (1 === collectedNodes.length) {
+      // Push back the single node.
+      node.children.push(collectedNodes[0]);
+      return node;
+    }
+
+    // Update the children array by creating an "others..." node with the collected
+    // nodes as children.
+    node.children.push(this.createOthersNode(collectedNodes));
+  }
+
+  /**
+   * Move the array of nodes into a new "others..." node's children property.
+   *
+   * @since 1.0.0
+   * @param nodes
+   * @returns {*}
+   */
+  createOthersNode(nodes) {
+    const node = nodes[0];
+    const othersNode = node.copy();
+    othersNode.data = { name: 'Other...' };
+    othersNode.parent = node;
+    othersNode.children = nodes;
+    othersNode.children.forEach(n => n.depth++);
+    othersNode.listeners = {
+      click: () => this.update(othersNode.copy())
+    };
+
+    return othersNode;
+  }
+
+  update(nodes) {}
 }
+
+export default TilingStrategy;
